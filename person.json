@@ -1,0 +1,14 @@
+[
+    {
+        "förnamn": "Emil",
+        "efternamn": "Kassmo",
+        "födelsedatum": "1975-12-31",
+        "dagar_kvar_till_100": 18130
+    },
+    {
+        "förnamn": "Emil",
+        "efternamn": "Kussmo",
+        "födelsedatum": "2007-02-10",
+        "dagar_kvar_till_100": 29493
+    }
+]
